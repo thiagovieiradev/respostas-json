@@ -1,16 +1,14 @@
-{
-    "filmes" : [
-        {
-            "nome" : "Jurassick Park",
-            "categoria" : "Aventura",
-            "ano" : 1993,
-            "id" : 1
-        },
-        {
-            "nome": "Matrix",
-            "categoria": "Ação",
-            "ano": 1999,
-            "id": 2
-        }
-    ]
-}
+[
+    {
+        "nome" : "Jurassick Park",
+        "categoria" : "Aventura",
+        "ano" : 1993,
+        "id" : 1
+    },
+    {
+        "nome": "Matrix",
+        "categoria": "Ação",
+        "ano": 1999,
+        "id": 2
+    }
+]
