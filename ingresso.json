@@ -2,21 +2,21 @@
   {
     "id": 1,
     "nome": "Vip - 1º Lote",
-    "valor": 250.00
+    "valor": 2250.00
   },
   {
     "id": 2,
     "nome": "Open Bar - 1º Lote",
-    "valor": 125.50
+    "valor": 725.50
   },
   {
     "id": 3,
     "nome": "Pista - 1º Lote",
-    "valor": 25.00
+    "valor": 225.00
   },
   {
     "id": 4,
     "nome": "Backstage - 1º Lote",
-    "valor": 450.00
+    "valor": 972.00
   }
 ]
