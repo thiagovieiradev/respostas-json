@@ -1,5 +1,10 @@
 [
   {
+    "id": 5,
+    "nome": "Área Vip Premium Frete de palco - 1º Lote",
+    "valor": 2250.00
+  },
+  {
     "id": 1,
     "nome": "Area Vip Premium - 1º Lote",
     "valor": 2250.00
