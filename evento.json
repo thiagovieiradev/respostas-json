@@ -4,7 +4,7 @@
     "nome": "Planeta Mix Colatina - Henrique e Juliano",
     "local": "Avenida Beira Rio",
     "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
-    "data": "22 de setembro de 2022 ás 14:00:00" // seria ideal retornar formatado assim
+    "data": "22 de setembro de 2022 ás 14:00:00" # seria ideal retornar formatado assim
     "limite_cpf" : true
   },
   {
@@ -12,7 +12,7 @@
     "nome": "Buteco do Gustavo Lima",
     "local": "Arena North Star",
     "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
-    "data": "11 de outubro de 2022 ás 23:00:00" // seria ideal retornar formatado assim
+    "data": "11 de outubro de 2022 ás 23:00:00" # seria ideal retornar formatado assim
     "limite_cpf" : false
   },
 ]
