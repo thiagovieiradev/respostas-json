@@ -2,7 +2,8 @@
   {
     "id": 5,
     "nome": "Área Vip Premium Frete de palco - 1º Lote",
-    "valor": 2250.00
+    "valor": 2250.00,
+    "numerado" : true    
   },
   {
     "id": 1,
