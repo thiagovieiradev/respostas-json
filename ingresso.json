@@ -1,32 +1,37 @@
 [
   {
     "id": 5,
-    "nome": "Área Vip Premium Frete de palco - 1º Lote",
+    "nome": "Área Vip Premium Frete de palco - 1º Lote (Numerado)",
     "valor": 2250.00,
-    "numerado" : true    
+    "numerado" : true ,
+    "lugares" : [2,4,6]
   },
   {
     "id": 1,
     "nome": "Area Vip Premium - 1º Lote",
     "valor": 2250.00,
-    "numerado" : true
+    "numerado" : false,
+    "lugares" : null
   },
   {
     "id": 2,
     "nome": "Open Bar Fundo do palco - 1º Lote",
     "valor": 725.50,
-    "numerado" : true
+    "numerado" : true,
+    "lugares" : [2,4,6]
   },
   {
     "id": 3,
     "nome": "Pista - 1º Lote",
     "valor": 225.00,
-    "numerado" : false
+    "numerado" : false,
+    "lugares" : null
   },
   {
     "id": 4,
     "nome": "Backstage - 1º Lote",
     "valor": 972.00,
-    "numerado" : true
+    "numerado" : true,
+    "lugares" : [2,4,6]
   }
 ]
