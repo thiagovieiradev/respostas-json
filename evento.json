@@ -12,7 +12,7 @@
     "id": 2,
     "nome": "Buteco do Gustavo Lima",
     "local": "Arena North Star",
-    "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
+    "imagem": "https://lebillet.com.br/img/shows/625_1.png",
     "data": "11 de outubro de 2022 ás 23:00:00",
     "limite_cpf" : false,
     "identificar" : true
@@ -21,7 +21,7 @@
     "id": 3,
     "nome": "Iron Maiden Cover",
     "local": "Itajuby",
-    "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
+    "imagem": "https://lebillet.com.br/img/shows/group_shows-henrique-juliano.png",
     "data": "21 de outubro de 2022 ás 23:00:00",
     "limite_cpf" : true,
     "identificar" : true
