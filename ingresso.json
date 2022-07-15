@@ -1,7 +1,7 @@
 [
   {
     "id": 5,
-    "nome": "Área Vip Premium Frete de palco - 1º Lote (Numerado)",
+    "nome": "Backstage Premium - 1º Lote (Numerado)",
     "valor": 2250.00,
     "numerado" : true,
     "lugares" : [2,4,6]
