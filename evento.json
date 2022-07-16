@@ -5,7 +5,7 @@
     "local": "Avenida Beira Rio",
     "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
     "data": "22 de setembro de 2022 ás 14:00:00", 
-    "limite_cpf" : true,
+    "limitado" : true,
     "identificar" : false
   },
   {
@@ -14,7 +14,7 @@
     "local": "Arena North Star",
     "imagem": "https://lebillet.com.br/img/shows/625_1.png",
     "data": "11 de outubro de 2022 ás 23:00:00",
-    "limite_cpf" : false,
+    "limitado" : false,
     "identificar" : true
   },
   {
@@ -23,7 +23,7 @@
     "local": "Itajuby",
     "imagem": "https://lebillet.com.br/img/shows/group_shows-henrique-juliano.png",
     "data": "21 de outubro de 2022 ás 23:00:00",
-    "limite_cpf" : true,
+    "limitado" : true,
     "identificar" : true
   }
 ]
