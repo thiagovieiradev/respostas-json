@@ -2,5 +2,13 @@
   {   
     "idsetor": 2,        
     "lugares" : [2,4,6]
+  },
+  {   
+    "idsetor": 8,        
+    "lugares" : [25,32,45,50]
+  },
+  {   
+    "idsetor": 16,        
+    "lugares" : [1,2,10,12]
   }
 ]
