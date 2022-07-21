@@ -2,31 +2,31 @@
   {
     "id": 2,
     "nome": "Backstage Premium - 1º Lote (Numerado)",
-    "valor": 2250.00,
+    "valor": 220.00,
     "numerado" : true
   },
   {
     "id": 8,
     "nome": "Area Vip Premium - 1º Lote",
-    "valor": 2250.00,
+    "valor": 150.00,
     "numerado" : false
   },
   {
     "id": 16,
     "nome": "Open Bar Fundo do palco - 1º Lote",
-    "valor": 725.50,
+    "valor": 90.00,
     "numerado" : true
   },
   {
     "id": 7,
     "nome": "Pista - 1º Lote",
-    "valor": 225.00,
+    "valor": 75.00,
     "numerado" : false
   },
   {
     "id": 9,
     "nome": "Backstage - 1º Lote",
-    "valor": 972.00,
+    "valor": 50.00,
     "numerado" : true
   }
 ]
