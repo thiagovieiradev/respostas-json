@@ -5,7 +5,7 @@
     "local": "Avenida Beira Rio",
     "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
     "data": "22 de setembro de 2022 ás 14:00:00", 
-    "limitado" : false,
+    "limitado" : true,
     "identificar" : false,
     "max_parcelas" : 2
   },
@@ -25,7 +25,7 @@
     "local": "Itajuby",
     "imagem": "https://lebillet.com.br/img/shows/group_shows-henrique-juliano.png",
     "data": "21 de outubro de 2022 ás 23:00:00",
-    "limitado" : true,
+    "limitado" : false,
     "identificar" : true,
     "max_parcelas" : 4
   }
