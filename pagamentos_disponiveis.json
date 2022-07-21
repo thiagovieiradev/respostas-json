@@ -1,0 +1,14 @@
+[
+  {   
+    "codigo" : 1,
+    "name": "Crédito"
+  },
+  {   
+    "codigo" : 2,
+    "name": "Débito"
+  },
+  {   
+    "codigo" : 3,
+    "name": "Dinheiro"
+  }
+]
