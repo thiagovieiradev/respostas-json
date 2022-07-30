@@ -15,7 +15,7 @@
     "max_parcelas" : 5
   },
   {
-    "id": 1,
+    "id": 2,
     "nome": "Jota Quest",
     "local": "Ponte de Ferro",
     "cidade" : "Baixo Guandu",
@@ -30,7 +30,7 @@
     "max_parcelas" : 2
   },
   {
-    "id": 1,
+    "id": 3,
     "nome": "Skank",
     "local": "Centro",
     "cidade" : "Marilândia",
