@@ -51,8 +51,8 @@ Após o acesso, deve listar os eventos ativos e válidos para o PDV em questão.
 Exemplo de resposta com uma lista de eventos:  
 
 __logo__: Se o evento possui logomarca para imprimir no ingresso  
-__limitado__: Se o evento tem limite de venda por CPF  
-__identificar__: Se é obrigatória a identificação dos ingressos  
+__limitado (true ou false)__: Se o evento tem limite de venda por CPF  
+__identificar (true ou false)__: Se é obrigatória a identificação dos ingressos  
 __max_parcelas__: Maximo de parcelas no crédito  
 
 
@@ -64,7 +64,7 @@ __max_parcelas__: Maximo de parcelas no crédito
     "local": "Avenida Beira Rio",
     "cidade" : "Colatina",
     "estado" : "ES",
-    "logo" : "",_
+    "logo" : "",
     "organizacao" : "Eventos Produções",
     "classificacao" : "12 Anos",
     "imagem": "https://bilhetepremium.com.br/assets/uploads/eventos/1656694470_52305402bfed75c0b9b2.jpeg",
@@ -90,4 +90,10 @@ __max_parcelas__: Maximo de parcelas no crédito
   }
 ]
 ```
+
+#### Evento limitado por CPF
+
+Quando um evento é limitado por CPF, deve existir um endpoint para que eu consiga confirmar se o CPF do comprador está liberado para efetuar compras em um evento.  
+Ou seja, no aplicativo, quando o PDV clicar em um evento, caso ele seja limitado por CPF, vai aparecer um campo para que seja digitado o CPF do comprador. Assim que  
+
 
