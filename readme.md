@@ -94,6 +94,25 @@ __max_parcelas__: Maximo de parcelas no crédito
 #### Evento limitado por CPF
 
 Quando um evento é limitado por CPF, deve existir um endpoint para que eu consiga confirmar se o CPF do comprador está liberado para efetuar compras em um evento.  
-Ou seja, no aplicativo, quando o PDV clicar em um evento, caso ele seja limitado por CPF, vai aparecer um campo para que seja digitado o CPF do comprador. Assim que  
+
+Um evento pode limitar a compra de ingressos por CPF. Por exemplo: Um CPF só pode comprar 5 ingressos em determinado evento, não importa de qual setor seja. Se comprou 5 ingressos, ele não pode comprar mais nesse evento, usando esse mesmo CPF. O limite será definido no cadastro do evento. 
+
+Ou seja, no aplicativo, quando o PDV clicar em um evento, caso ele seja limitado por CPF, vai aparecer um campo para que seja digitado o CPF do comprador.  Vou passar o CPF e o ID do evento por POST. Caso o CPF esteja liberado para compra, o endpoint precisa retornar os seguintes dados:  
+
+```
+[
+  {
+    "cpf_liberado": true
+  }
+]
+```  
+Caso o CPF não possa efetuar mais compras de ingressos, deve retornar:  
+```
+[
+  {
+    "cpf_liberado": false
+  }
+]
+```
 
 
