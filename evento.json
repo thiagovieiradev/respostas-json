@@ -13,7 +13,20 @@
     "limitado" : false,
     "identificar" : false,
     "max_parcelas" : 5,
-    "pagamentos" : [1, 2, 3]
+    "pagamentos" : [
+        {   
+          "codigo" : 1,
+          "name": "Crédito"
+        },
+        {   
+          "codigo" : 2,
+          "name": "Débito"
+        },
+        {   
+          "codigo" : 3,
+          "name": "Dinheiro"
+        }
+    ]
   },
   {
     "id": 2,
@@ -29,7 +42,16 @@
     "limitado" : false,
     "identificar" : false,
     "max_parcelas" : 2,
-    "pagamentos" : [1, 3]
+    "pagamentos" : [
+        {   
+          "codigo" : 1,
+          "name": "Crédito"
+        },
+        {   
+          "codigo" : 3,
+          "name": "Dinheiro"
+        }
+    ]
   },
   {
     "id": 3,
@@ -45,6 +67,19 @@
     "limitado" : true,
     "identificar" : false,
     "max_parcelas" : 3,
-    "pagamentos" : [1, 2, 3]
+    "pagamentos" : [
+        {   
+          "codigo" : 1,
+          "name": "Crédito"
+        },
+        {   
+          "codigo" : 2,
+          "name": "Débito"
+        },
+        {   
+          "codigo" : 3,
+          "name": "Dinheiro"
+        }
+    ]
   }
 ]
