@@ -2,5 +2,6 @@
   "id" : 1,
   "codigo" : "5248",
   "nome" : "Thiago Vieira",
-  "email" : "thiagosilva.vieira@hotmail.com"  
+  "email" : "thiagosilva.vieira@hotmail.com",
+  "access_token" : "123456"
 }
