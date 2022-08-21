@@ -2,14 +2,14 @@
   {
     "id": 2,
     "nome": "Backstage Premium - 1º Lote (Numerado)",
-    "valor": 0.10,
+    "valor": 0.90,
     "classificacao" : "10 anos",
     "numerado" : true
   },
   {
     "id": 8,
     "nome": "Area Vip Premium - 1º Lote",
-    "valor": 150.00,
+    "valor": 1.00,
     "classificacao" : "12 anos",
     "numerado" : false
   },
