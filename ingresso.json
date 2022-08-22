@@ -9,28 +9,28 @@
   {
     "id": 8,
     "nome": "Area Vip Premium - 1º Lote",
-    "valor": 1.00,
+    "valor": 0.50,
     "classificacao" : "12 anos",
     "numerado" : false
   },
   {
     "id": 16,
     "nome": "Open Bar Fundo do palco - 1º Lote",
-    "valor": 90.00,
+    "valor": 0.50,
     "classificacao" : "14 anos",
     "numerado" : true
   },
   {
     "id": 7,
     "nome": "Pista - 1º Lote",
-    "valor": 75.00,
+    "valor": 0.50,
     "classificacao" : "16 anos",
     "numerado" : false
   },
   {
     "id": 9,
     "nome": "Backstage - 1º Lote",
-    "valor": 50.00,
+    "valor": 0.50,
     "classificacao" : "18 anos",
     "numerado" : true
   }
