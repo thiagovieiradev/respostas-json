@@ -1,1 +1,28 @@
-{"evento":{"id":4},"transacao":{"total":57160,"data_compra":"2022-08-27 01:45:24","terminal":"99999999-9","idpdv":5},"ingressos":[{"id":1,"idsetor":8,"valor":60},{"id":2,"idsetor":2,"valor":28550},{"id":3,"idsetor":2,"valor":28550}]}
+{
+  "evento": {
+    "id": 4
+  },
+  "transacao": {
+    "total": 57160,
+    "data_compra": "2022-08-27 01:45:24",
+    "terminal": "99999999-9",
+    "idpdv": 5
+  },
+  "ingressos": [
+    {
+      "id": 1,
+      "idsetor": 8,
+      "valor": 60
+    },
+    {
+      "id": 2,
+      "idsetor": 2,
+      "valor": 28550
+    },
+    {
+      "id": 3,
+      "idsetor": 2,
+      "valor": 28550
+    }
+  ]
+}
