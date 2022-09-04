@@ -1,0 +1,40 @@
+{
+  "status": true,
+  "transacoes": [
+    {
+      "transacao_id": 1,
+      "ingressos": [
+        {
+          "ingresso_id": 1,
+          "hash": "ABC124A5",
+          "indice" : 1
+        },
+        {
+          "ingresso_id": 2,
+          "hash": "ABC125A5",
+          "indice" : 2
+        },
+        {
+          "ingresso_id": 3,
+          "hash": "ABC126A5",
+          "indice" : 3
+        }
+      ]
+    },
+    {
+      "transacao_id": 2,
+      "ingressos": [
+        {
+          "ingresso_id": 4,
+          "hash": "ABC124A5",
+          "indice" : 4
+        },
+        {
+          "ingresso_id": 5,
+          "hash": "ABC125A5",
+          "indice" : 5
+        }
+      ]
+    },
+  ]
+}
