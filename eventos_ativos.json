@@ -1,0 +1,9 @@
+{
+  "id" : 1,
+  "setores" : [
+    {
+      "id" : 1,
+      "nome" : "Pista"
+    }
+  ]
+}
