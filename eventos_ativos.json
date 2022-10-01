@@ -14,5 +14,16 @@
       "id" : 8,
       "nome" : "Backstage"
     }
+  ],
+  "ingressos_cancelados" : [
+    {
+      "code" : "ABC123",
+    },
+    {
+      "code" : "ABC123",
+    },
+    {
+      "code" : "ABC123",
+    }
   ]
 }
