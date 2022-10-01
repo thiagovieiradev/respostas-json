@@ -1,9 +1,18 @@
 {
   "id" : 1,
+  "nome" : "Planeta Mix",
   "setores" : [
     {
       "id" : 1,
       "nome" : "Pista"
+    },
+    {
+      "id" : 3,
+      "nome" : "Open Bar"
+    },
+    {
+      "id" : 8,
+      "nome" : "Backstage"
     }
   ]
 }
