@@ -1,0 +1,40 @@
+{
+  "total": 25,
+  "payment_types": [
+    {
+      "type": "credito",
+      "parcels": [
+        {
+          "parcel": 1,
+          "tax": 10,
+          "total": 110
+        },
+        {
+          "parcel": 2,
+          "tax": 11,
+          "total": 111
+        },
+        {
+          "parcel": 3,
+          "tax": 12,
+          "total": 112
+        }
+      ]
+    },
+    {
+      "type": "debito",
+      "tax": 10,
+      "total": 110
+    },
+    {
+      "type": "dinheiro",
+      "tax": 0,
+      "total": 100
+    },
+    {
+      "type": "pix",
+      "tax": 5,
+      "total": 105
+    }
+  ]
+}
