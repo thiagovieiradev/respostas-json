@@ -1,0 +1,80 @@
+{
+  "event": [
+    {
+      "event_name": "Balada do Gustavo Lima",
+      "event_local": "Avenida Beira Rio",
+      "event_city_state": "Avenida Beira Rio",
+      "event_date": "01/01/2023 18:00",
+      "event_organization": "GAROZE PRODUÇÕES",
+      "age_rating": "Classificação: 18 Anos"
+    }
+  ],
+  "tickets": [
+    {
+      "sector_name": "Pista",
+      "ticket_hash": "4A1ZAS",
+      "allotment": "Lote 1",
+      "age_rating": "Classificação: 18 Anos"
+    },
+    {
+      "sector_name": "Pista",
+      "ticket_hash": "4A1ZAD",
+      "allotment": "Lote 1",
+      "age_rating": "Classificação: 18 Anos"
+    }
+  ],
+  "transaction": [
+    {
+      "transaction_hash": "613TF088",
+      "total_value": "100.00",
+      "transaction_date": "03/12/2022 18:23"
+    }
+  ],
+  "seller": [
+    {
+      "seller_name": "Briel",
+      "device": "1001"
+    }
+  ],
+  "payment_types": [
+    {
+      "type": "credito",
+      "humanized": "CRÉDITO",
+      "parcels": [
+        {
+          "parcel": 1,
+          "tax": 10,
+          "total": 110
+        },
+        {
+          "parcel": 2,
+          "tax": 11,
+          "total": 111
+        },
+        {
+          "parcel": 3,
+          "tax": 12,
+          "total": 112
+        }
+      ]
+    },
+    {
+      "type": "debito",
+      "humanized": "DÉBITO",
+      "tax": 10,
+      "total": 110
+    },
+    {
+      "type": "dinheiro",
+      "humanized": "DINHEIRO",
+      "tax": 0,
+      "total": 100
+    },
+    {
+      "type": "pix",
+      "humanized": "PIX",
+      "tax": 5,
+      "total": 105
+    }
+  ]
+}
