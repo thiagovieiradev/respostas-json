@@ -28,9 +28,7 @@
   "transaction": [
     {
       "transaction_hash": "613TF088",
-      "net_amount": 100,
-      "total_fee": 10,
-      "gross_amount": 110,      
+      "net_amount": 100,            
       "transaction_date": "03/12/2022 18:23"
     }
   ],
