@@ -41,11 +41,12 @@
   "payment_types": [
     {
       "type": "credito",
+      "tax": 10,
       "humanized": "CRÉDITO",
       "parcels": [
         {
           "parcel": 1,
-          "tax": 10,
+          "tax": 0,
           "parcel_value" : 110,
           "total": 110
         },
