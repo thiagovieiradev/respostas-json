@@ -11,13 +11,15 @@
   ],
   "tickets": [
     {
+      "type" : "normal",
       "sector_name": "Pista",
       "ticket_hash": "4A1ZAS",
       "allotment": "Lote 1",
       "age_rating": "Classificação: 18 Anos"
     },
     {
-      "sector_name": "Pista",
+      "type" : "free",
+      "sector_name": "Cortesia",
       "ticket_hash": "4A1ZAD",
       "allotment": "Lote 1",
       "age_rating": "Classificação: 18 Anos"
@@ -26,7 +28,8 @@
   "transaction": [
     {
       "transaction_hash": "613TF088",
-      "total_value": "100.00",
+      "total_value": "100.0",
+      "total_fee" : "10.0",
       "transaction_date": "03/12/2022 18:23"
     }
   ],
