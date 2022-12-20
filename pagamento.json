@@ -1,6 +1,7 @@
 {  
   "payment_types": [
     {
+      "code" : 1,
       "type": "credito",
       "humanized" : "CRÉDITO",
       "parcels": [
@@ -22,18 +23,21 @@
       ]
     },
     {
+      "code" : 2,
       "type": "debito",      
       "humanized" : "DÉBITO",
       "tax": 10,
       "total": 110
     },
     {
+      "code" : 9,
       "type": "dinheiro",      
       "humanized" : "DINHEIRO",
       "tax": 0,
       "total": 100
     },
     {
+      "code" : 5,
       "type": "pix",      
       "humanized" : "PIX",
       "tax": 5,
