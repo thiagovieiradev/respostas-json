@@ -41,7 +41,7 @@
   "payment_types": [
     {
       "type": "credito",
-      "tax": 10,
+      "tax": 1000,
       "humanized": "CRÉDITO",
       "parcels": [
         {
@@ -52,13 +52,13 @@
         },
         {
           "parcel": 2,
-          "tax": 11,
+          "tax": 1100,
           "parcel_value" : 5550,
           "total": 11100
         },
         {
           "parcel": 3,
-          "tax": 12,
+          "tax": 1200,
           "parcel_value" : 3733,
           "total": 11200
         }
@@ -67,7 +67,7 @@
     {
       "type": "debito",
       "humanized": "DÉBITO",
-      "tax": 10,
+      "tax": 1000,
       "total": 11000
     },
     {
@@ -79,7 +79,7 @@
     {
       "type": "pix",
       "humanized": "PIX",
-      "tax": 5,
+      "tax": 500,
       "total": 10500
     }
   ]
