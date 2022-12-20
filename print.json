@@ -53,13 +53,13 @@
         {
           "parcel": 2,
           "tax": 11,
-          "parcel_value" : 55.50,
+          "parcel_value" : 5550,
           "total": 11100
         },
         {
           "parcel": 3,
           "tax": 12,
-          "parcel_value" : 37.33,
+          "parcel_value" : 3733,
           "total": 11200
         }
       ]
