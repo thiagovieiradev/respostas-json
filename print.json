@@ -28,7 +28,7 @@
   "transaction": [
     {
       "transaction_hash": "613TF088",
-      "net_amount": 1000,            
+      "net_amount": 10.00,            
       "transaction_date": "03/12/2022 18:23"
     }
   ],
@@ -47,40 +47,40 @@
         {
           "parcel": 1,
           "tax": 0,
-          "parcel_value" : 1.25,
-          "total": 2.25
+          "parcel_value" : 10.00,
+          "total": 10.00
         },
         {
           "parcel": 2,
           "tax": 0.10,
-          "parcel_value" : 0.55,
-          "total": 1.10
+          "parcel_value" : 5.05,
+          "total": 10.10
         },
         {
           "parcel": 3,
           "tax": 0.20,
-          "parcel_value" : 0.40,
-          "total": 1.20
+          "parcel_value" : 3.40,
+          "total": 10.20
         }
       ]
     },
     {
       "type": "debito",
       "humanized": "DÉBITO",
-      "tax": 100,
-      "total": 110
+      "tax": 1.00,
+      "total": 11.00
     },
     {
       "type": "dinheiro",
       "humanized": "DINHEIRO",
       "tax": 0,
-      "total": 100
+      "total": 10.00
     },
     {
       "type": "pix",
       "humanized": "PIX",
-      "tax": 50,
-      "total": 105
+      "tax": 0.50,
+      "total": 10.50
     }
   ]
 }
