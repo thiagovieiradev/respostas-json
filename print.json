@@ -41,26 +41,26 @@
   "payment_types": [
     {
       "type": "credito",
-      "tax": 100,
+      "tax": 1.00,
       "humanized": "CRÉDITO",
       "parcels": [
         {
           "parcel": 1,
           "tax": 0,
-          "parcel_value" : 125,
-          "total": 225
+          "parcel_value" : 1.25,
+          "total": 2.25
         },
         {
           "parcel": 2,
-          "tax": 10,
-          "parcel_value" : 55,
-          "total": 110
+          "tax": 0.10,
+          "parcel_value" : 0.55,
+          "total": 1.10
         },
         {
           "parcel": 3,
-          "tax": 20,
-          "parcel_value" : 40,
-          "total": 120
+          "tax": 0.20,
+          "parcel_value" : 0.40,
+          "total": 1.20
         }
       ]
     },
