@@ -1,11 +1,11 @@
 {
   "establishments": [
     {
-      "establishment_id": 2,
+      "remote_establishment_id": 2,
       "name": "Maiara e Maraisa"
     },
     {
-      "establishment_id": 6,
+      "remote_establishment_id": 6,
       "name": "Lets"
     }
   ]
