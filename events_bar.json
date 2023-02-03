@@ -1,10 +1,12 @@
 [
   {
     "remote_establishment_id": 2,
-    "name": "Maiara e Maraisa"
+    "name": "Maiara e Maraisa",
+    "start_date": "27/03/2023 20:00"
   },
   {
     "remote_establishment_id": 6,
-    "name": "Lets"
+    "name": "Lets",    
+    "start_date": "12/03/2023 22:00"
   }
 ]
