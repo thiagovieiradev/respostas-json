@@ -10,38 +10,32 @@
         "parcels": [
           {
             "parcel": 1,
-            "tax": 10,
-            "total": 110
+            "tax": 10          
           },
           {
             "parcel": 2,
-            "tax": 11,
-            "total": 111
+            "tax": 11
           },
           {
             "parcel": 3,
-            "tax": 12,
-            "total": 112
+            "tax": 12
           }
         ]
       },
       {        
         "type": "debito",
         "humanized": "DÉBITO",
-        "tax": 10,
-        "total": 110
+        "tax": 10
       },
       {        
         "type": "dinheiro",
         "humanized": "DINHEIRO",
-        "tax": 0,
-        "total": 100
+        "tax": 0
       },
       {        
         "type": "pix",
         "humanized": "PIX",
-        "tax": 5,
-        "total": 105
+        "tax": 5
       }
     ]
   },
@@ -56,38 +50,32 @@
         "parcels": [
           {
             "parcel": 1,
-            "tax": 10,
-            "total": 110
+            "tax": 10
           },
           {
             "parcel": 2,
-            "tax": 11,
-            "total": 111
+            "tax": 11
           },
           {
             "parcel": 3,
-            "tax": 12,
-            "total": 112
+            "tax": 12
           }
         ]
       },
       {        
         "type": "debito",
         "humanized": "DÉBITO",
-        "tax": 10,
-        "total": 110
+        "tax": 10
       },
       {        
         "type": "dinheiro",
         "humanized": "DINHEIRO",
-        "tax": 0,
-        "total": 100
+        "tax": 0
       },
       {        
         "type": "pix",
         "humanized": "PIX",
-        "tax": 5,
-        "total": 105
+        "tax": 5
       }
     ]
   }
